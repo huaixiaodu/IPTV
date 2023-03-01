@@ -94,14 +94,10 @@ https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺 8M
-
 #EXTINF:-1,金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,经典功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1,CHC动作电影
-http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 
 #EXTINF:-1,凤凰中文
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -116,22 +112,6 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 
 #EXTINF:-1,凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-
-#EXTINF:-1,星空卫视
-http://jyjxy.7766.org:8811/hls/31/index.m3u8
-
-#EXTINF:-1,星河台
-http://jyjxy.7766.org:8811/hls/35/index.m3u8
-#EXTINF:-1,翡翠台
-http://jyjxy.7766.org:8811/hls/36/index.m3u8
-#EXTINF:-1,明珠台
-http://jyjxy.7766.org:8811/hls/37/index.m3u8
-#EXTINF:-1,翡翠台
-http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
-
-
-#EXTINF:-1,香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
 #EXTINF:-1,凤凰资讯
@@ -142,7 +122,3 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1,新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1,新加坡中文台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1,儒释道经
-https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
