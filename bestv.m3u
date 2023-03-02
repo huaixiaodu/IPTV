@@ -87,6 +87,18 @@ https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1,海南卫视
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1,北京IPTV
+http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+
+
+#EXTINF:-1,CETV-1
+http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1,CETV-2
+http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+#EXTINF:-1,CETV-3
+http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+#EXTINF:-1,CETV-4
+http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 
 
 #EXTINF:-1,青春动漫
@@ -104,6 +116,8 @@ https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1,热门综艺
 https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1,李子柒
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
 #EXTINF:-1,魅力足球
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
@@ -113,6 +127,10 @@ https://live.v1.mk/api/bestv.php?id=zqpd8m/8000000
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
 #EXTINF:-1,劲爆体育
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1,游戏频道
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1,智林体育
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 
 
 #EXTINF:-1,都市剧场
@@ -150,7 +168,23 @@ http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+#EXTINF:-1,靖天卡通台
+http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+#EXTINF:-1,靖天国际
+http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+#EXTINF:-1,靖天育乐台
+http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
 
+
+#EXTINF:-1,全民最大党
+http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+#EXTINF:-1,爱尔达娱乐
+http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+#EXTINF:-1,台视
+http://23.237.10.66:16344
+
+#EXTINF:-1,翡翠台
+http://r.jdshipin.com/62WM7
 #EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1,日语新闻台
